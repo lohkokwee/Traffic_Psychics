@@ -48,7 +48,7 @@ Examples of the data can be found in our [assets folder](./assets).
 The folders for our web application are organised in the following manner with docstrings included for necessary components to aid your understanding.
 
 1. [Apps](./apps) - this is where you can access the  pages to our streamlit web application
-2. [Componenets](./components) - this is where the code for our data visualisations are stored
+2. [Components](./components) - this is where the code for our data visualisations are stored
 3. [Assets](./assets) - this is where we store our data
 
 
